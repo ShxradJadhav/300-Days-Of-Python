@@ -1,0 +1,2 @@
+# Practice from: 2025-11-25
+print('Hello World')
